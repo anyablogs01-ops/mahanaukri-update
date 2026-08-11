@@ -1,0 +1,6 @@
+{
+  "name": "MahaNaukri Update",
+  "description": "महाराष्ट्र नोकरी, शिक्षण, सरकारी योजना, पोलीस व रेल्वे भरतीची परिपूर्ण माहिती देणारे पोर्टल",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
